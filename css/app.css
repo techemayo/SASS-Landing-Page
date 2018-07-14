@@ -129,6 +129,31 @@ body {
   padding: 70px 0px;
   min-height: 540px; }
 
+#page-footer {
+  clear: both;
+  background-color: #212630;
+  padding: 25px 0 40px;
+  position: relative;
+  width: 100%;
+  overflow: hidden; }
+  #page-footer .footer-container {
+    padding: 0 10%; }
+    #page-footer .footer-container .lego-footer {
+      font-size: 1rem;
+      font-weight: 200;
+      color: #FFFCFC; }
+      #page-footer .footer-container .lego-footer .footer-wrapper {
+        display: inline-block;
+        padding: 20px 0;
+        flex-wrap: wrap;
+        cursor: pointer; }
+  #page-footer .footer-link {
+    margin-right: 36px;
+    color: #FFFCFC;
+    text-decoration: none; }
+    #page-footer .footer-link:hover {
+      color: #CD4B3D; }
+
 .btn {
   display: inline-block;
   font-weight: normal;
