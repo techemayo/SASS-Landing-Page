@@ -70,6 +70,35 @@ body {
   background-color: #212630;
   color: #FFF; }
 
+.home-title {
+  font-size: 40px;
+  font-weight: 700;
+  margin: -50px 0 20px;
+  color: #CD4B3D; }
+
+.b-text {
+  font-size: 1.25rem;
+  margin: 0 0 20px;
+  color: #FFF;
+  font-family: "Roboto Slab", serif;
+  padding-right: 25px;
+  line-height: 1.7rem; }
+
+.b-card {
+  padding: 40px;
+  text-align: center;
+  color: #FFF;
+  background-color: #212630;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  margin-left: 50px; }
+  .b-card .b-title {
+    font-size: 27px;
+    font-weight: 700;
+    color: #FFFCFC;
+    margin: 0 0 50px; }
+    .b-card .b-title .b-video {
+      margin: 0 auto 15px; }
+
 .nav-header {
   padding: 0 0 10px;
   background-color: #FFF; }
