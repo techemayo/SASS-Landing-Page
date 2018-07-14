@@ -7,7 +7,7 @@
 body {
   font-family: "Roboto Slab", serif;
   font-size: 1rem;
-  line-height: 1.25rem; }
+  line-height: 1.25; }
 
 .row {
   display: flex;
@@ -82,7 +82,7 @@ body {
   color: #FFF;
   font-family: "Roboto Slab", serif;
   padding-right: 25px;
-  line-height: 1.7rem; }
+  line-height: 1.7; }
 
 .b-card {
   padding: 40px;
